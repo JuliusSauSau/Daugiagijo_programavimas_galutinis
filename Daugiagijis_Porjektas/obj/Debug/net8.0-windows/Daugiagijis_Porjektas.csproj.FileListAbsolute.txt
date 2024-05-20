@@ -1,0 +1,16 @@
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\bin\Debug\net8.0-windows\Daugiagijis_Porjektas.exe
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\bin\Debug\net8.0-windows\Daugiagijis_Porjektas.deps.json
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\bin\Debug\net8.0-windows\Daugiagijis_Porjektas.runtimeconfig.json
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\bin\Debug\net8.0-windows\Daugiagijis_Porjektas.dll
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\bin\Debug\net8.0-windows\Daugiagijis_Porjektas.pdb
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.Form1.resources
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.csproj.GenerateResource.cache
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.AssemblyInfoInputs.cache
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.AssemblyInfo.cs
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.dll
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\refint\Daugiagijis_Porjektas.dll
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.pdb
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\Daugiagijis_Porjektas.genruntimeconfig.cache
+D:\Visual_Studio_Codes\4_Semestras\Daugiagijis_programavimas\Daugiagijis_Porjektas\obj\Debug\net8.0-windows\ref\Daugiagijis_Porjektas.dll
